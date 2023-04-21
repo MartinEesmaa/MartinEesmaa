@@ -18,6 +18,11 @@ BTC (Bitcoin):
 bc1qhf4zu5uythr7vyt2dru73qp0k2rzrx355fsx47yjxc2ueunz8frqxmwap3
 ```
 
+LBRY (Odysee):
+```
+bH3eumTBQoAvRCPLZWpirX9ggxeEUs5VaR
+```
+
 ### English (Martin Eesmaa's second language/teine keel)
 
 I'm Martin Eesmaa and I started to use Github since 2021.
