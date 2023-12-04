@@ -23,6 +23,10 @@ LBRY (Odysee):
 bH3eumTBQoAvRCPLZWpirX9ggxeEUs5VaR
 ```
 
+Või PayPal-iga:
+
+https://www.paypal.com/donate/?hosted_button_id=BQ7SJPMDZNFW2
+
 ### English (Martin Eesmaa's second language/teine keel)
 
 I'm Martin Eesmaa and I started to use Github since 2021.
@@ -30,5 +34,7 @@ I'm Martin Eesmaa and I started to use Github since 2021.
 If you have any question or problem, you can contact to me by email or make issue from my repositories.
 
 You can donate me by my cryptocurrency.
+
+Or with PayPal.
 
 [![Martin Eesmaal GitHub statistika](https://github-readme-stats.vercel.app/api?username=MartinEesmaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
