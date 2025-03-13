@@ -25,7 +25,7 @@ bH3eumTBQoAvRCPLZWpirX9ggxeEUs5VaR
 
 Või PayPal-iga:
 
-https://www.paypal.com/donate/?hosted_button_id=BQ7SJPMDZNFW2
+https://paypal.me/martineesmaa
 
 ### English (Martin Eesmaa's second language/teine keel)
 
